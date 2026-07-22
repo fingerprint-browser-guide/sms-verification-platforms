@@ -1,0 +1,12 @@
+platform,official_url,product_types,number_source_claim,country_service_scope,starting_price,min_topup,refund_summary,api_mcp,number_retention,success_evidence_grade,checked_at,notes
+5sim,https://5sim.net/,"一次性激活；部分组合可接多条短信","虚拟号码；未承诺全部真实SIM或non-VoIP","营销页180+国；核查日注册页153国、1215服务","服务列表USD 0.01/次；营销文案USD 0.008起",未披露,"取消或部分组合约5分钟未到码退余额；软件/API错误不退","REST API；未披露MCP","一次性，不用于长期复用",C/D,2026-07-17,"国家口径与起价口径存在冲突"
+SMS-Man,https://sms-man.com/,"一次性；租用","不绑定实体SIM的云号码；未承诺全部non-VoIP","一次性200+国、1000+服务；租用16国","USD 0.05/次",未披露,"限时未到码，取消后自动退；到码不退","API v2；兼容API；Rent API；未披露MCP","最长90天；厂商称到期后不再售出",C/D,2026-07-17,"租用国家范围明显小于一次性范围"
+SMSPool,https://www.smspool.net/en,"一次性；长期租用；免费公共号","厂商称仅non-VoIP；长期号称real non-VoIP","150+国、1200+服务","USD 0.02/次",未披露,"未到码不收费，款项留在余额","REST API；未发现MCP","长期租用可续",C/D,2026-07-17,"号码来源为厂商声明"
+TextVerified,https://www.textverified.com/,"短信/语音验证；1—14天短租；可续长期租用","厂商称美国实体SIM、non-VoIP","仅美国号码；900+服务","USD 0.25/次；短租USD 1.50起；续租USD 5/月起",未披露,"到码才扣credits；未到可退","REST API；未发现MCP","一次性会回收；长期号按30天续",C/D,2026-07-17,"号码国家明确仅美国"
+HeroSMS,https://hero-sms.com/,"一次性；Full rent库存","physical与virtual混合；未承诺全部真实SIM或non-VoIP","180+国、700+服务","核查日动态样本USD 0.006/次","随支付方式变化；统一下限未披露","激活20分钟未到码退余额；租用仅前20分钟可退","API入口；未发现MCP","24小时至8周；续费规则未披露",D,2026-07-17,"价格为动态样本"
+GrizzlySMS,https://grizzlysms.com/,一次性,"实际国家与USA virtual池并存","多国；服务搜索显示2425；稳定国家总数未披露","核查日WhatsApp样本USD 0.013","USD 3","20分钟未到码退余额；到码不退","公开API文档；官方链接MCP Server for AI","签发20分钟，不再发放",D,2026-07-17,"接口存在不代表可靠性或成功率"
+SMSPVA,https://smspva.com/,"一次性；日/周/月租；免费公共号","厂商称VoIP/虚拟号与真实SIM并存","主页面60+国；旧页100+","USD 0.05/次","统一下限未披露；部分银行卡渠道USD 5","未到码可在7天内申请退款","REST API；回调；未发现MCP","数日、数周或数月；上限未披露",D,2026-07-17,"国家范围口径冲突；99%为未披露方法的厂商主张"
+VirtualSMS,https://virtualsms.io/,"一次性；1/3/7/14/30日专属租用；共享号","厂商称真实实体SIM、non-VoIP","145+国、2500+服务；核查日租用页可租6国","激活USD 0.05/次起；租用页USD 4.99起；其他官方页另有不同口径",未披露,"主口径20分钟未到码退余额；关于页另称2分钟","REST API；MCP","1—30日，可延长同号",D,2026-07-17,"租用价格和退款时间存在官方页面内部冲突"
+VerifySMS.app,https://verifysms.app/,按次虚拟号码,"未承诺全部真实SIM或non-VoIP","官网150+国；App Store 200+国；此前Google Play索引120+国","USD 0.10/次",未披露,"2分钟未到码自动退credits","未发现公开API或MCP","未发现租用或续费",C/D,2026-07-17,"国家范围与平台支持口径冲突"
+TwoLine,https://twoline.io/,"月租第二号码；私有收件箱","未统一承诺non-VoIP或真实SIM","美国、英国、荷兰","约USD 6.99/9.99/11.99每月",未披露,"15分钟未到码退App credits；现金原路退需申请","未发现公开API或MCP","月续可保留；过期可能回库存",D,2026-07-17,"重要账号仍需备用恢复渠道"
+

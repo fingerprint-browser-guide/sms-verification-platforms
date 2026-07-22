@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "如果你在文章、报告、研究或数据分析中使用本项目，请引用以下信息。"
+title: "2026年SMS接码平台怎么选？SMS-Activate停运后的10个平台对比"
+type: dataset
+authors:
+  - name: "ZkingWorkgo"
+version: 1.0.0
+date-released: 2026-07-22
+repository-code: "https://github.com/ZkingWorkgo/sms-verification-platforms"
+url: "https://github.com/ZkingWorkgo/sms-verification-platforms"
+abstract: "基于官方价格页、帮助中心、应用商店与开发文档，对10个SMS接码和虚拟号码平台的号码类型、国家范围、价格、退款、接口、保留规则与公开成功率证据进行可复核的中文比较。"
+keywords:
+  - "SMS接码平台"
+  - "接码平台"
+  - "虚拟号码"
+  - "短信验证"
+  - "SMS verification platform"
+  - "virtual phone number"
+  - "SMS-Activate"
+license: CC-BY-4.0
+
