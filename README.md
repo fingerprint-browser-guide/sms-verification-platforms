@@ -688,3 +688,6 @@
 接码工具、代理和浏览器环境解决的是不同问题。如果需求还涉及浏览器会话隔离、内核、数据存储和自动化能力，可以继续阅读：
 
 - [2026指纹浏览器怎么选？6款主流产品功能、价格与适用场景对比](https://github.com/ZkingWorkgo/fingerprint-browser)：比较系统、浏览器内核、数据存储、自动化、团队能力与价格。
+- [2026浏览器指纹检测工具怎么选？BrowserLeaks、CreepJS等8个工具对比与结果解读](https://github.com/ZkingWorkgo/browser-fingerprint-checkers)：解释IP、DNS、WebRTC、TLS、Canvas、WebGL、环境一致性与自动化检测结果，以及这些结果不能证明什么。
+
+更多相关工具专题见[指纹浏览器工具生态指南](https://github.com/ZkingWorkgo)。
