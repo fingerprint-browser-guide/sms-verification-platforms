@@ -6,7 +6,7 @@
 
 本文比较5sim、SMS-Man、SMSPool、TextVerified等10个平台的一次性号码、租用、退款、接口与公开成功率证据，帮助读者按场景选择。
 
-> 本文属于 [ZkingWorkgo 工具生态研究](https://zkingworkgo.github.io/) 的公开专题。网站首页汇总全部已发布主题、研究方法与后续研究范围。
+> 本文属于 [指纹浏览器生态指南](https://fingerprint-browser-guide.github.io/) 的公开专题。网站首页汇总已发布研究、研究方法与已建立的主题框架。
 
 ## 2026年SMS接码平台推荐：不同需求的快速结论
 
@@ -683,13 +683,14 @@
 
 ### 项目说明
 
-本项目由 ZkingWorkgo 维护，关注SMS接码、虚拟号码和相关工具的公开资料整理。研究区分官方声明、关联方测试、第三方证据与实际测试；没有可复核数据时明确记录未知，不把厂商宣传改写成本文实测结论。
+本项目由 指纹浏览器生态指南 维护，关注SMS接码、虚拟号码和相关工具的公开资料整理。研究区分官方声明、关联方测试、第三方证据与实际测试；没有可复核数据时明确记录未知，不把厂商宣传改写成本文实测结论。
 
 ## 相关研究
 
 接码工具、代理和浏览器环境解决的是不同问题。如果需求还涉及浏览器会话隔离、内核、数据存储和自动化能力，可以继续阅读：
 
-- [2026指纹浏览器怎么选？6款主流产品功能、价格与适用场景对比](https://github.com/ZkingWorkgo/fingerprint-browser)：比较系统、浏览器内核、数据存储、自动化、团队能力与价格。
-- [2026浏览器指纹检测工具怎么选？BrowserLeaks、CreepJS等8个工具对比与结果解读](https://github.com/ZkingWorkgo/browser-fingerprint-checkers)：解释IP、DNS、WebRTC、TLS、Canvas、WebGL、环境一致性与自动化检测结果，以及这些结果不能证明什么。
+- [2026指纹浏览器怎么选？6款主流产品功能、价格与适用场景对比](https://github.com/fingerprint-browser-guide/fingerprint-browser)：比较系统、浏览器内核、数据存储、自动化、团队能力与价格。
+- [2026浏览器指纹检测工具怎么选？BrowserLeaks、CreepJS等8个工具对比与结果解读](https://github.com/fingerprint-browser-guide/browser-fingerprint-checkers)：解释IP、DNS、WebRTC、TLS、Canvas、WebGL、环境一致性与自动化检测结果，以及这些结果不能证明什么。
+- [临时邮箱服务研究框架](https://github.com/fingerprint-browser-guide/temporary-email-services)：记录地址与邮件有效期、收件隐私、附件、域名、API和限制，不把不同类型验证工具混为一类。
 
-更多相关工具专题见[指纹浏览器工具生态指南](https://github.com/ZkingWorkgo)。
+更多专题与状态见[指纹浏览器生态指南](https://fingerprint-browser-guide.github.io/)。
