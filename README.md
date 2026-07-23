@@ -6,6 +6,8 @@
 
 本文比较5sim、SMS-Man、SMSPool、TextVerified等10个平台的一次性号码、租用、退款、接口与公开成功率证据，帮助读者按场景选择。
 
+> 本文属于 [ZkingWorkgo 工具生态研究](https://zkingworkgo.github.io/) 的公开专题。网站首页汇总全部已发布主题、研究方法与后续研究范围。
+
 ## 2026年SMS接码平台推荐：不同需求的快速结论
 
 **答案：本文不设总体第一：低价一次性看HeroSMS或5sim，美国验证看TextVerified，长期保号看TwoLine，开发接口按API或MCP需求选择。**
