@@ -38,6 +38,7 @@
 | [VirtualSMS](https://virtualsms.io/) | 一次性；1/3/7/14/30日专属租用；共享号 | 官方称真实实体SIM、non-VoIP | 官方称145+国、2500+服务；[租用页](https://virtualsms.io/rentals)当日可租6国 | 激活 **USD 0.05/次起**；租用页 **USD 4.99起**，首页另称 **USD 0.25/日起**、[关于页](https://virtualsms.io/about)称 **USD 2起** | 未披露 |
 | [VerifySMS.app](https://verifysms.app/) | 按次虚拟号码 | 未承诺全部真实SIM/non-VoIP | 此前[Google Play官方页索引](https://play.google.com/store/apps/details?id=app.verifysms.android)称 **120+**（官网当前仍链接Android Google Play；本轮直开失败，未验证当前正文）；[官网](https://verifysms.app/)当前称 **150+**；[App Store](https://apps.apple.com/us/app/verify-sms-virtual-number/id6759080670)当前称 **200+国** | **USD 0.10/次** | 未披露 |
 | [TwoLine](https://twoline.io/) | 月租第二号码；私有收件箱 | 未统一承诺non-VoIP或真实SIM | 美国、英国、荷兰 | 约 **USD 6.99 / USD 9.99 / USD 11.99每月** | 未披露 |
+| [SMS Duo](https://www.smsduo.com/) | 按次付费专属号码；网页控制台与API | 平台称购买号码专属使用；目录包含VOIP、非VOIP与实体卡线路 | 美国、英国、加拿大、香港、印度尼西亚、澳大利亚；以实时库存为准 | 价格随国家、号码类型和库存变化，具体见订单页 | 最低充值未披露；支持支付宝（Alipay）、USDT（TRC20/BEP20） |
 
 ### 证据与适用场景
 
